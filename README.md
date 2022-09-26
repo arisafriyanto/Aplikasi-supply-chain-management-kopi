@@ -6,4 +6,4 @@ dimulai dari bahan, supplier kopi, pemesanan bahan, pemakaian bahan, persediaan 
 
 Menu dari aplikasi supply chain management kopi ini antara lain:
 - Data Bahan
-  
+  => Menu ini berisi CRUD management data bahan
